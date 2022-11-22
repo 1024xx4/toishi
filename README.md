@@ -1,2 +1,2 @@
 # toishi
-事故研磨用の Repository
+砥石。自己研磨用の Repository
